@@ -1,0 +1,19 @@
+{
+    "index": "/index.html",
+    "assetGroups": [
+      {
+        "name": "app",
+        "installMode": "prefetch",
+        "updateMode": "prefetch",
+        "resources": {
+          "files": [
+            "/index.html",
+            "/main.js",
+            "/styles.css",
+            "/favicon.ico"
+          ]
+        }
+      }
+    ]
+  }
+  
